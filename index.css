@@ -1,0 +1,398 @@
+.row1{
+    cursor: pointer;
+}
+
+
+
+.row3{
+    text-align: center;
+    display: inline;
+    padding-left: 10%;
+}
+
+.wrap{
+    width: 40%;
+    position: relative;
+    cursor: pointer;
+    margin: 10px;
+  }
+
+
+.wrap img{
+    box-sizing: content-box;
+    cursor: pointer;
+    display: inline;
+    margin-left: 70px;
+    margin-top: 10px;
+}
+
+#dau{
+    padding-left: 200px;
+    padding-right: 200px;
+    background-color: rgb(230, 202, 202);
+}
+
+
+
+
+
+
+#header{
+    font-variant: small-caps;
+    display: flex;
+    font-size: 17px;
+    margin: 3px;
+}
+
+
+#main-menu{
+    list-style: none;
+}
+
+ul#main-menu{
+    display: flex;
+    margin-left: 300px;
+    margin-top: -25px;
+}
+
+
+
+#main-menu a{
+    padding: 10px;
+}
+
+
+
+.top-right .DK .right-top-block .header-top-item:first-child{
+    color: #505050;
+    display: inline-flex;
+    cursor: pointer;
+    align-items: center;
+    margin-left: 16px;
+}
+
+
+#main-menu-2{
+    list-style: none;
+    display: flex; 
+    font-weight: bold;
+}
+
+#main-menu-2 img{
+    max-width: 20px;
+    position: absolute;
+    margin: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+#main-menu img{
+    max-width: 20px;
+    height: auto;
+}
+
+
+
+.row4{
+    width: 19%;
+    float:left;
+    cursor: pointer;
+    padding-left: 10%;
+}
+
+
+.Clogitech{
+    box-shadow: 0 0 5px gray;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+
+
+
+.CRazer{
+    box-shadow: 0 0 5px gray;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+
+
+.CAsus{
+    box-shadow: 0 0 5px gray;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+
+
+.Ccorsair{
+    box-shadow: 0 0 5px gray;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+
+
+
+.row5{
+    width: 19%;
+    float:left;
+    cursor: pointer;
+}
+
+
+
+.Llogitech{
+    box-shadow: 0 0 5px gray;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+
+
+
+.LRazer{
+    box-shadow: 0 0 5px gray;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+
+
+
+.LSoundMax{
+    box-shadow: 0 0 5px gray;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+
+
+
+.LMicrolab{
+    box-shadow: 0 0 5px gray;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+
+
+
+
+.row6{
+    width: 19%;
+    float:left;
+    cursor: pointer;
+    margin-left: 20px;
+}
+
+
+
+
+.MHLG{
+    box-shadow: 0 0 5px gray;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+
+
+
+
+.MHAcer{
+    box-shadow: 0 0 5px gray;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+
+
+
+
+.MHAOC{
+    box-shadow: 0 0 5px gray;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+
+
+
+.MHHKC{
+    box-shadow: 0 0 5px gray;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+
+
+
+
+
+.row7{
+    width: 19%;
+    float:left;
+    cursor: pointer;
+}
+
+
+
+
+.GCorsair{
+    box-shadow: 0 0 5px gray;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+
+
+
+
+
+.GWarrior{
+    box-shadow: 0 0 5px gray;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+
+
+
+.GE-DRA{
+    box-shadow: 0 0 5px gray;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+
+
+
+.GRazer{
+    box-shadow: 0 0 5px gray;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+
+
+
+
+
+
+.gia{
+    font-size: 20px;
+    color: red;
+    font-weight: 700;
+}
+
+.gia del{
+    color: gray;
+    font-weight: normal;
+}
+
+
+
+
+.search {
+    width: 100%;
+    position: relative;
+    display: flex;
+    margin-left: 320px;
+    margin-top: -65px;
+    margin-bottom: 30px;
+}
+  
+
+
+
+.searchTerm {
+    width: 90%;
+    border: 3px solid white;
+    border-right: none;
+    padding: 5px;
+    height: 20px;
+    border-radius: 20px 0 0 20px;
+    outline: none;
+    color: #9DBFAF;
+}
+  
+
+
+.searchTerm:focus{
+    color: #00B4CC;
+}
+  
+
+.searchButton {
+    width: 50px;
+    border: 2px solid red;
+    background-color: red;
+    text-align: center;
+    color: white;
+    border-radius: 0 20px 20px 0;
+    cursor: pointer;
+    font-size: 20px;
+}
+  
+
+footer{
+    padding-left: 20%;
+}
+
+
+.row10{
+    width: 20%;
+    font-size: 15px;
+    float: left;
+    margin-top: 12px;
+}
+
+
+a{
+    text-decoration: none;
+}
+.row11{
+    width: 20%;
+    font-size: 20px;
+    float: left;
+    padding-left: 70px;
+    margin-top: 20px;
+}
+p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+.gt{
+    font-size:15px;
+}
+
+
+
+.shr{
+    font-size: 25px;
+}
+
+
+
+
+
+
